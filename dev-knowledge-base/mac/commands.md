@@ -11,3 +11,10 @@ echo >> /Users/{your-user!!!}/.zprofile
 echo 'eval "$(/usr/local/bin/brew shellenv)"' >> /Users/{your-user!!!}/.zprofile
 eval "$(/usr/local/bin/brew shellenv)"
 ```
+
+## brew commands
+```bash 
+brew list 
+brew install [package]
+brew uninstall [package]
+```
