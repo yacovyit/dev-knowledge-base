@@ -1,10 +1,11 @@
 # dev-knowledge-base
 
 ## create folder structure
-```
-mkdir -p dev-knowledge-base/{linux,vagrant,git,docker,java,mvn,spring,sql,frontend,tips}
+```bash
+mkdir -p dev-knowledge-base/{linux,mac,vagrant,git,docker,java,mvn,spring,sql,frontend,tips}
 
 touch dev-knowledge-base/linux/commands.md \
+      dev-knowledge-base/mac/commands.md \
       dev-knowledge-base/vagrant/commands.md \
       dev-knowledge-base/git/cheatsheet.md \
       dev-knowledge-base/docker/basics.md \
