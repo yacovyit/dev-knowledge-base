@@ -12,6 +12,8 @@ cd /path   # change dir
 cp file1 file2    # copy
 mv file1 file2    # move/rename
 rm -rf dir/       # remove dir
+mkdir  dir        # create directory
+mkdir -p a/b/c.   # create directories recursive              
 ```
 
 ## Sudo - set user
