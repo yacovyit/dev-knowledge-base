@@ -8,3 +8,5 @@ vagrant up                    # start VM
 vagrant halt                  # stop VM
 vagrant destroy               # remove VM
 vagrant ssh                   # ssh into VM
+vagrant box list              # list of installed boxes  
+```
