@@ -11,3 +11,4 @@ vagrant ssh                   # ssh into VM
 vagrant box list              # list of installed VM boxes
 vagrant reload                # apply changes in Vagrantfile (on new vm it will delete and create new VM)  
 ```
+
