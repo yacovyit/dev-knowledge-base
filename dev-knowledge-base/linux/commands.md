@@ -19,3 +19,12 @@ rm -rf dir/       # remove dir
 sudu -i           # login as root user
 exit              # logout from the logged in user 
 ```
+
+## History command
+```bash
+history           # show previous commands
+```
+
+```bash
+cat /etc/os-release   # os relase info
+```
