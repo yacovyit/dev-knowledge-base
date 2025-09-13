@@ -9,6 +9,8 @@ vagrant halt                  # stop VM
 vagrant destroy               # remove VM
 vagrant ssh                   # ssh into VM
 vagrant box list              # list of downloaded VM boxes
-vagrant reload                # apply changes in Vagrantfile (on new vm it will delete and create new VM)  
+vagrant reload                # apply changes in Vagrantfile (on new vm it will delete and create new VM)
+vagrant status                # current folder Vagrant environments
+vagrant global-status         # all known Vagrant environments     
 ```
 
